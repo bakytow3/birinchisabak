@@ -1,21 +1,14 @@
-import java.util.Arrays;
-import java.util.Random;
-import java.util.Scanner;
 
 public class  Main {
     public static void main(String[] args) {
-        method("Nurislam","Bakyt");
-        }
-static void method (String...tapshyrma) {
-    for (String a : tapshyrma) {
-        System.out.println(a +" "+"men seni jakshy korom ");
 
+        }
 
 
     }
 
-}
-}
+
+
 
 
 
