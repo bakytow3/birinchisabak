@@ -7,7 +7,7 @@ public class  Main {
         Person person = new Person("Michael Jordan", "former professional basketball player");
         Programmer programmer = new Programmer("Bill Gates", "founder of Microsoft", "Microsoft");
         Dancer dancer = new Dancer("Atai Omurzakov", "famous dancer", "Atai and group");
-        Singer singer = new Singer("Celine Dion", "She has won five Grammy Awards", "Dion-Angélil");
+        Singer singer = new Singer("Celine Dion.", "She has won five Grammy Awards", "Dion-Angélil");
         System.out.println(person);
         person.learn();
         person.walk();
